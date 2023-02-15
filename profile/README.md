@@ -1,9 +1,13 @@
 ## The Pulumi Book
 
-Hi! :wave: Here you'll find repositories and other goodies that supplement [The Pulumi Book](https://thepulumibook.com):
+Greetings, and welcome! :wave: 
 
-* [pulumibook/examples](https://github.com/pulumibook/examples): All of the examples in the book, organized by chapter.
-* [pulumibook/feedback](https://github.com/pulumibook/feedback): Issues, errata, and discussions.
+Here you'll find repositories and other goodies that supplement [The Pulumi Book](https://thepulumibook.com):
+
+* The [examples](https://github.com/pulumibook/examples) repository contains all of the examples in the book, organized by chapter.
+* The [feedback](https://github.com/pulumibook/feedback) repository hosts the GitHub discussions forum and tracks issues related to the content of the book &mdash; typos, syntax errors, suggestions for additional topics, etc. 
+
+Thanks for reading!
 
 <!--
 
