@@ -9,4 +9,4 @@ Here you'll find repositories and other goodies that supplement [The Pulumi Book
 * The [**Discussions**](https://github.com/orgs/pulumibook/discussions) tab hosts the book's discussion forum. Use it for asking questions and sharing what you think! 
 * The [**Projects**](https://github.com/orgs/pulumibook/projects) tab tracks current and planned work for the book, along with progress on any issues filed on the examples or issues repositories.
 
-Thanks for reading! You can also keep up with the book by [following me on Mastodon](https://hachyderm.io/@cnunciato).
+Thanks for reading! You can also keep up with the book by following [the book on Twitter](https://twitter.com/pulumibook) and [me on Mastodon](https://hachyderm.io/@cnunciato).
