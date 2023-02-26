@@ -10,3 +10,7 @@ Here you'll find repositories and other goodies that supplement [The Pulumi Book
 * The [**Projects**](https://github.com/orgs/pulumibook/projects) tab tracks current and planned work for the book, along with progress on any issues filed on the examples or issues repositories.
 
 Thanks for reading! :heart: In addition to starring or watching these repos, you can keep up with the book [on the website](https://pulumibook.info) and/or [following me personally on Mastodon](https://hachyderm.io/@cnunciato).
+
+<a href="https://pulumibook.info">
+    <img width="180" alt="The Pulumi Book" src="https://user-images.githubusercontent.com/274700/124629560-6a6c1300-de36-11eb-94dc-f2a7b98b5f98.png">
+</a>
