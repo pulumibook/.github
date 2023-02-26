@@ -2,7 +2,7 @@
 
 Greetings, and welcome! :wave: 
 
-Here you'll find repositories and other goodies that supplement [The Pulumi Book](https://thepulumibook.com):
+Here you'll find repositories and other goodies that supplement [The Pulumi Book](https://pulumibook.info):
 
 * The [**examples**](https://github.com/pulumibook/examples) repository contains all of the examples in the book, organized by chapter.
 * The [**issues**](https://github.com/pulumibook/issues) repository tracks issues related to the content of the book &mdash; typos, syntax errors, glaring omissions, etc. 
